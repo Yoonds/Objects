@@ -8,14 +8,6 @@
 import Foundation
 
 // 티켓
-public class Ticket {
-    private var fee: Int
-    
-    init(fee: Int = 0) {
-        self.fee = fee
-    }
-    
-    public func getFee() -> Int {
-        return fee
-    }
+public class Invitation {
+    private var when = Date()
 }
