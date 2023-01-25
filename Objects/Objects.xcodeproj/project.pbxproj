@@ -17,6 +17,7 @@
 		6BFE7FCA29817D8B008CB59F /* Audience.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BFE7FC929817D8B008CB59F /* Audience.swift */; };
 		6BFE7FCC29817DDB008CB59F /* TicketOffice.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BFE7FCB29817DDB008CB59F /* TicketOffice.swift */; };
 		6BFE7FCE29817E0D008CB59F /* TicketSeller.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BFE7FCD29817E0D008CB59F /* TicketSeller.swift */; };
+		6BFE7FD029817E73008CB59F /* Theater.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6BFE7FCF29817E73008CB59F /* Theater.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,7 @@
 		6BFE7FC929817D8B008CB59F /* Audience.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Audience.swift; sourceTree = "<group>"; };
 		6BFE7FCB29817DDB008CB59F /* TicketOffice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TicketOffice.swift; sourceTree = "<group>"; };
 		6BFE7FCD29817E0D008CB59F /* TicketSeller.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TicketSeller.swift; sourceTree = "<group>"; };
+		6BFE7FCF29817E73008CB59F /* Theater.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Theater.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -86,6 +88,7 @@
 				6BFE7FC929817D8B008CB59F /* Audience.swift */,
 				6BFE7FCB29817DDB008CB59F /* TicketOffice.swift */,
 				6BFE7FCD29817E0D008CB59F /* TicketSeller.swift */,
+				6BFE7FCF29817E73008CB59F /* Theater.swift */,
 			);
 			path = Chapter1;
 			sourceTree = "<group>";
@@ -174,6 +177,7 @@
 				6BFE7FCE29817E0D008CB59F /* TicketSeller.swift in Sources */,
 				6BFE7FCC29817DDB008CB59F /* TicketOffice.swift in Sources */,
 				6BFE7FC829817D17008CB59F /* Bag.swift in Sources */,
+				6BFE7FD029817E73008CB59F /* Theater.swift in Sources */,
 				6BFE7FCA29817D8B008CB59F /* Audience.swift in Sources */,
 				6BFE7FB629817B14008CB59F /* ContentView.swift in Sources */,
 				6BFE7FB429817B14008CB59F /* ObjectsApp.swift in Sources */,

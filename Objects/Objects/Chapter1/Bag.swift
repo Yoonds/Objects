@@ -35,12 +35,12 @@ public class Bag {
     }
     
     // 현금 감소
-    public func minusAmount() {
+    public func minusAmount(amount: Int) {
         self.amount -= amount
     }
 
     // 현금 증가
-    public func plusAmount() {
+    public func plusAmount(amount: Int) {
         self.amount += amount
     }
 }
