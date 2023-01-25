@@ -7,7 +7,7 @@
 
 import Foundation
 
-// 티켓
+// 초대장
 public class Invitation {
     private var when = Date()
 }

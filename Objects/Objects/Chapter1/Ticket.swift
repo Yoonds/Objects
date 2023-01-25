@@ -7,7 +7,7 @@
 
 import Foundation
 
-// 초대장
+// 티켓
 public class Ticket {
     private var fee: Int
     
